@@ -5,7 +5,7 @@
 **SOC Analyst · Threat Detection · SIEM Engineering**
 
 🎓 MSc Applied Cyber Security — Queen's University Belfast *(Awarded Commendation)*
-🔗 [LinkedIn](https://www.linkedin.com/in/varunsaiyadla/) · 📬 [yadlavarun11@gmail.com](mailto:yadlavarun11@gmail.com) · 📞 +91 7095836560
+🔗 [LinkedIn](https://www.linkedin.com/in/varunsaiyadla/) · 📬 [yadlavarun11@gmail.com](mailto:yadlavarun11@gmail.com)
 
 </div>
 
