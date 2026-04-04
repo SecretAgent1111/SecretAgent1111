@@ -78,12 +78,11 @@
 
 ---
 
-## 📈 GitHub Stats
+<h3 align="center">📊 Activity & Labs</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SecretAgent1111&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=SecretAgent1111&theme=tokyonight" />
-</p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SecretAgent11.png" />
+  <br><br>
 
 ---
 
