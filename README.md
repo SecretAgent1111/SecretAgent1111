@@ -1,16 +1,50 @@
-## Hi there 👋
+┌──(root㉿secretagent1111)-[~/cybersecurity_profile]
+└─$ whoami
+Varun Sai Yadla
 
-<!--
-**SecretAgent1111/SecretAgent1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──(root㉿secretagent1111)-[~/cybersecurity_profile]
+└─$ cat profile.txt
+[+] Role        : SOC Analyst (L1) | Cybersecurity Analyst
+[+] Location    : India → UK (2026 Job Hunt)
+[+] Education   : MSc Applied Cyber Security - Queen’s University Belfast
+[+] Status      : Actively Hunting Threats & Jobs
+┌──(root㉿secretagent1111)-[~/skills]
+└─$ ls -la
+SIEM        → Splunk | IBM QRadar | Microsoft Sentinel
+Detection   → Brute Force | Phishing | Lateral Movement | Malware
+Logs        → Windows | DNS | Firewall | Proxy | Sysmon
+Network     → TCP/IP | DNS | VPN | IDS/IPS | Wireshark
+Scripting   → Python | Bash
+┌──(root㉿secretagent1111)-[~/experience]
+└─$ cat soc_training.log
+[+] Analysed 40-60 alerts/day (Splunk & QRadar)
+[+] Reduced false positives by 25%
+[+] Built SPL & AQL detection queries
+[+] Investigated brute-force & anomalous logins
+[+] Created dashboards for real-time monitoring
+[+] Performed root cause + MITRE ATT&CK mapping
+┌──(root㉿secretagent1111)-[~/projects]
+└─$ tree
+├── SOC-Splunk-Lab
+│   ├── Brute Force Detection
+│   ├── DNS Exfiltration Detection
+│   ├── Suspicious Login Analysis
+│
+├── MITM Attack Simulation
+│   ├── Packet Analysis
+│   ├── Traffic Manipulation
+│
+├── AES Side-Channel Attack Research
+┌──(root㉿secretagent1111)-[~/certifications]
+└─$ cat certs.txt
+[✔] CompTIA Security+
+[✔] Network+
+[✔] CEH (v13)
+[✔] Certified SOC Analyst (CSA)
+[✔] eJPT
+[✔] Microsoft Cybersecurity Analyst
+[✔] Google Cybersecurity Certificate
+┌──(root㉿secretagent1111)-[~/contact]
+└─$ ./connect.sh
+LinkedIn : https://www.linkedin.com/in/varunsaiyadla
+Email    : yadlavarun11@gmail.com
