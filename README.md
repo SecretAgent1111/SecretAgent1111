@@ -1,96 +1,57 @@
-<h1 align="center">Hi 👋, I'm Varun Sai Yadla</h1>
-<h3 align="center">SOC Analyst | Cybersecurity Analyst | SIEM Enthusiast</h3>
+# Varun Sai Yadla
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/varunsaiyadla/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <img src="https://img.shields.io/badge/SOC-Analyst-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SIEM-Splunk-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Threat-Hunting-red?style=for-the-badge">
-</p>
+**SOC Analyst · Threat Detection · SIEM Engineering**  
+MSc Applied Cyber Security — Queen's University Belfast  
+[LinkedIn](https://www.linkedin.com/in/varunsaiyadla/) · [yadlavarun11@gmail.com](mailto:yadlavarun11@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me
+I'm a cybersecurity analyst focused on the operational side of security — monitoring, detection, and response. My work sits at the intersection of SIEM engineering and threat analysis, where most of the real noise-to-signal problem lives.
 
-* 🎯 Aspiring **SOC Analyst (L1)** actively seeking roles in the UK
-* 🎓 MSc Applied Cyber Security – Queen’s University Belfast
-* 🔍 Experienced in **SIEM monitoring, log analysis, and incident response**
-* ⚡ Hands-on with **Splunk, IBM QRadar, Microsoft Sentinel**
-* 🧠 Strong knowledge of **MITRE ATT&CK, Cyber Kill Chain, SOC workflows**
+Currently based in the UK and actively looking for SOC Analyst (L1/L2) opportunities.
 
 ---
 
-## 🛠️ Skills & Tools
+## Work I've Done
 
-### 🔐 SIEM & Security Monitoring
+**SOC Home Lab — Splunk**  
+Built a detection environment from scratch to simulate real-world alert scenarios. Focused on brute-force pattern recognition, suspicious authentication chains, and custom alerting logic. Everything was tuned to reduce false positives before flagging — because noisy alerts are just as dangerous as no alerts.
 
-* Splunk | IBM QRadar | Microsoft Sentinel
+**Man-in-the-Middle Attack Simulation**  
+Hands-on simulation of network interception techniques. Analysed packet-level traffic, identified exposure points, and documented findings in the format of a real vulnerability assessment report.
 
-### 🌐 Network Security
-
-* TCP/IP | DNS | VPN | Firewalls | IDS/IPS
-
-### 📊 Log Analysis
-
-* Windows Event Logs | Sysmon | DNS Logs | Proxy Logs
-
-### ⚔️ Threat Detection
-
-* Brute Force | Phishing | Malware | Lateral Movement
-
-### 💻 Scripting
-
-* Python | Bash
+**AES Side-Channel Attack Research**  
+Academic research into cryptographic attack surfaces. Evaluated the effectiveness of known countermeasures against timing and power analysis attacks on AES implementations.
 
 ---
 
-## 📂 Featured Projects
+## Technical Focus
 
-🔹 **SOC Splunk Lab**
-
-* Detection of brute-force attacks
-* Suspicious login analysis
-* Custom dashboards & alerts
-
-🔹 **MITM Attack Simulation**
-
-* Packet interception & traffic analysis
-* Network vulnerability assessment
-
-🔹 **AES Side-Channel Attack Research**
-
-* Cryptographic attack analysis
-* Evaluation of countermeasures
+| Area | Tools & Technologies |
+|---|---|
+| SIEM & Monitoring | Splunk, IBM QRadar, Microsoft Sentinel |
+| Log Analysis | Windows Event Logs, Sysmon, DNS, Proxy Logs |
+| Network Security | TCP/IP, DNS, Firewalls, IDS/IPS, VPN |
+| Threat Frameworks | MITRE ATT\&CK, Cyber Kill Chain |
+| Scripting | Python, Bash |
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-* CompTIA Security+
-* CompTIA Network+
-* Certified Ethical Hacker (CEH v13)
-* Certified SOC Analyst (CSA)
-* eJPT
-* Microsoft Cybersecurity Analyst
-* Google Cybersecurity Certificate
-
----
-
-<h3 align="center">📊 Activity & Labs</h3>
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/SecretAgent11.png" />
-  <br><br>
+- CompTIA Security+ / Network+
+- Certified Ethical Hacker (CEH v13)
+- Certified SOC Analyst (CSA)
+- eJPT
+- Microsoft Cybersecurity Analyst
+- Google Cybersecurity Certificate
 
 ---
 
-## 📫 Contact Me
+## Labs & Practice
 
-* 💼 LinkedIn: https://www.linkedin.com/in/varunsaiyadla/
-* 📧 Email: [yadlavarun11@gmail.com](mailto:yadlavarun11@gmail.com)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SecretAgent11.png)](https://tryhackme.com/p/SecretAgent11)
 
 ---
 
-⭐ *Actively seeking SOC Analyst opportunities in the UK*
+*Open to SOC Analyst roles in the UK — feel free to reach out directly.*
