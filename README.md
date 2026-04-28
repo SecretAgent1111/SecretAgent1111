@@ -70,10 +70,6 @@
 
 ---
 
-## 📜 Certifications
-
-👉 https://github.com/SecretAgent1111/Certificates
-
 ### 🔐 CEH (Certified Ethical Hacker)
 👉 https://github.com/SecretAgent1111/Certificates/tree/main/CEH
 
