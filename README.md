@@ -4,7 +4,6 @@
 
 ### 🔎 Splunk Detection Labs
 
-* 🚨 [Windows Brute Force Detection](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Bruteforce.md)
 * 🔐 [Account Lockdown Detection](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Account%20Lockdown%20Detection.md)
 * 📊 [Data Exfiltration Detection](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Data%20Exfiltration%20Detection.md)
 * 🌍 [Impossible Travel Detection](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Impossible%20Travel%20Detection.md)
