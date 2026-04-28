@@ -1,8 +1,4 @@
-# 🛡️ Cybersecurity Portfolio – SecretAgent1111
-
-Hands-on **SOC Analyst labs**, **SIEM detections**, and **CTF writeups** focused on real-world attack detection and investigation.
-
----
+# 🛡️ My Home Labs
 
 ## 🚀 SOC Home Labs (Splunk & QRadar)
 
