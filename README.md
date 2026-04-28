@@ -1,4 +1,4 @@
-# 🛡️ SOC Analyst Home Labs
+# 🛡️ My Home Labs
 
 This repository contains hands-on cybersecurity labs, detection use cases, SIEM investigations, and CTF writeups using tools like **Splunk** and **QRadar**.
 
