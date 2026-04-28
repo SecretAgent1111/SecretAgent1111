@@ -66,5 +66,35 @@
 * 🤖 [SOC Automation Mini Project](https://github.com/SecretAgent1111/Python-And-Bash/blob/main/SOC%20Automation%20Mini%20Project.md)
 * 🌐 [Threat Intelligence](https://github.com/SecretAgent1111/Python-And-Bash/blob/main/Threat%20Intelligence.md)
 
+# 📜 Cybersecurity Certifications
+
+---
+
+## 🎯 Certifications
+
+### 🔐 CEH (Certified Ethical Hacker)
+
+👉 [View](./CEH/)
+
+---
+
+### 🛡️ CSA (Cybersecurity Analyst)
+
+👉 [View](./CSA/)
+
+---
+
+### 🌐 Network+
+
+👉 [View](./Network+/)
+
+---
+
+### 🔒 Security+
+
+👉 [View](./Security+/)
+
+---
+
 ---
 ⭐ Explore the projects for full labs, queries, and investigations.
