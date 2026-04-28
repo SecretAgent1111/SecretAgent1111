@@ -1,7 +1,5 @@
 # 🛡️ My Home Labs
 
-## 🚀 SOC Home Labs (Splunk & QRadar)
-
 ### 🔎 Splunk Detection Labs
 
 * 🔐 [Account Lockdown Detection](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Account%20Lockdown%20Detection.md)
@@ -64,10 +62,6 @@
 * 🔎 [Regex](https://github.com/SecretAgent1111/Python-And-Bash/blob/main/Regex.md)
 * 🤖 [SOC Automation Mini Project](https://github.com/SecretAgent1111/Python-And-Bash/blob/main/SOC%20Automation%20Mini%20Project.md)
 * 🌐 [Threat Intelligence](https://github.com/SecretAgent1111/Python-And-Bash/blob/main/Threat%20Intelligence.md)
-
-# 📜 Cybersecurity Certifications
-
----
 
 ## 📜 Certifications
 
