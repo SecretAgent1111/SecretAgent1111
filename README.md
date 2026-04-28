@@ -4,34 +4,85 @@ Hands-on **SOC Analyst labs**, **SIEM detections**, and **CTF writeups** focused
 
 ---
 
-## 🚀 Featured Work
+## 🚀 SOC Home Labs (Splunk & QRadar)
 
-### 🔎 SOC Home Labs (Splunk & QRadar)
+👉 **Full Repository:**
+https://github.com/SecretAgent1111/Home-Labs
 
-👉 https://github.com/SecretAgent1111/Home-Labs
+---
 
-* 🚨 [Windows Brute Force Detection](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Bruteforce.md)
-* 📊 [Data Exfiltration Detection](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Data%20Exfiltration%20Detection.md)
-* 🎯 [Multi-Stage Attack Detection](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Multi-Stage%20Attack%20Detection.md)
-* ⚡ [Correlation Rule: Windows Brute Force](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Creating%20Correlation%20Rule:%20Windows%20Brute%20Force%20Detection.md)
+### 🔎 Splunk Detection Labs
+
+* 🚨 Windows Brute Force Detection
+* 🔐 Account Lockdown Detection
+* 📊 Data Exfiltration Detection
+* 🌍 Impossible Travel Detection
+* 🔁 Lateral Movement Detection
+* 🐧 Linux Authentication Threat Detection & Investigation
+* ⚙️ Linux Persistence via Cron Jobs
+* 🎯 Multi-Stage Attack Detection
+* 🔓 Password Spraying Attack
+* 🎣 Phishing Attack Simulation
+* ⬆️ Privilege Escalation Detection
+* 🖥️ Suspicious Remote Command Execution
+* 🌐 Web Attack Detection
+
+👉 View All:
+https://github.com/SecretAgent1111/Home-Labs/tree/main/Splunk
+
+---
+
+### 🧠 Correlation Rules
+
+* ⚡ Windows Brute Force Correlation Rule
+
+👉 View:
+https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Creating%20Correlation%20Rule:%20Windows%20Brute%20Force%20Detection.md
 
 ---
 
 ### 🧩 QRadar Labs
 
-* 🚨 [Brute Force Attack](https://github.com/SecretAgent1111/Home-Labs/blob/main/QRADAR/Brute%20Force%20Attack.md)
-* 🔐 [Distributed Password Spraying](https://github.com/SecretAgent1111/Home-Labs/blob/main/QRADAR/Distributed%20Password%20Spraying%20Attack.md)
+* 🚨 Brute Force Attack
+* 🔐 Distributed Password Spraying Attack
+
+👉 View All:
+https://github.com/SecretAgent1111/Home-Labs/tree/main/QRADAR
 
 ---
 
-### 🎯 TryHackMe Writeups
+## 🎯 TryHackMe Writeups
 
-👉 https://github.com/SecretAgent1111/TryHackMe-Writeups
+👉 **Full Repository:**
+https://github.com/SecretAgent1111/TryHackMe-Writeups
 
-* 🧪 [Blue](https://github.com/SecretAgent1111/TryHackMe-Writeups/blob/main/CTF/Blue.md)
-* 🔍 [Investigating Windows](https://github.com/SecretAgent1111/TryHackMe-Writeups/blob/main/CTF/Investigating%20Windows.md)
-* 💀 [h4cked](https://github.com/SecretAgent1111/TryHackMe-Writeups/blob/main/CTF/h4cked.md)
-* 🧩 [vulnversity](https://github.com/SecretAgent1111/TryHackMe-Writeups/blob/main/CTF/vulnversity.md)
+* 🧪 Blue
+* 🧠 CMSpit
+* 💘 Cupid Matchmaker
+* 🕵️ HiddenDeepIntoMyHeart
+* 🔍 Investigating Windows
+* 🧾 Poster
+* ✉️ Signed Messages
+* 📁 Source
+* ❤️ Valentine
+* 💀 h4cked
+* 🧩 vulnversity
+
+👉 View All:
+https://github.com/SecretAgent1111/TryHackMe-Writeups/tree/main/CTF
+
+---
+
+## 🐍 Python & Bash Projects
+
+👉 https://github.com/SecretAgent1111/Python-And-Bash
+
+* Advanced Bash Log Analysis
+* Log Hunting
+* JSON Logs
+* Regex
+* SOC Automation Mini Project
+* Threat Intelligence Scripts
 
 ---
 
@@ -42,7 +93,8 @@ Hands-on **SOC Analyst labs**, **SIEM detections**, and **CTF writeups** focused
 * Threat Detection & Hunting
 * Incident Response
 * Correlation Rule Engineering
+* Scripting: Python, Bash
 
 ---
 
-⭐ Explore the repositories for full labs and investigations.
+⭐ Explore each repository for full labs, queries, and investigations.
