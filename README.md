@@ -70,31 +70,19 @@
 
 ---
 
-## 🎯 Certifications
+## 📜 Certifications
+
+👉 https://github.com/SecretAgent1111/Certificates
 
 ### 🔐 CEH (Certified Ethical Hacker)
-
-👉 [View](./CEH/)
-
----
+👉 https://github.com/SecretAgent1111/Certificates/tree/main/CEH
 
 ### 🛡️ CSA (Cybersecurity Analyst)
-
-👉 [View](./CSA/)
-
----
+👉 https://github.com/SecretAgent1111/Certificates/tree/main/CSA
 
 ### 🌐 Network+
-
-👉 [View](./Network+/)
-
----
+👉 https://github.com/SecretAgent1111/Certificates/tree/main/Network+
 
 ### 🔒 Security+
-
-👉 [View](./Security+/)
-
----
-
----
+👉 https://github.com/SecretAgent1111/Certificates/tree/main/Security+
 ⭐ Explore the projects for full labs, queries, and investigations.
