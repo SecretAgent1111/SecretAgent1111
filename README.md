@@ -67,16 +67,4 @@
 * 🌐 [Threat Intelligence](https://github.com/SecretAgent1111/Python-And-Bash/blob/main/Threat%20Intelligence.md)
 
 ---
-
-## 🧠 Skills
-
-* SIEM: Splunk, QRadar
-* Log Analysis (Windows & Linux)
-* Threat Detection & Hunting
-* Incident Response
-* Correlation Rule Engineering
-* Scripting: Python, Bash
-
----
-
 ⭐ Explore the projects for full labs, queries, and investigations.
