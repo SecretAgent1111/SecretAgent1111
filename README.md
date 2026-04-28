@@ -1,72 +1,119 @@
-<div align="center">
+# 🛡️ SOC Analyst Home Labs
 
-# Varun Sai Yadla
+This repository contains hands-on cybersecurity labs, detection use cases, and SIEM-based investigations built using tools like **Splunk** and **QRadar**.
 
-**SOC Analyst · Threat Detection · SIEM Engineering**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/varunsaiyadla/) · 📬 [yadlavarun11@gmail.com](mailto:yadlavarun11@gmail.com)
-
-</div>
+These labs simulate real-world attack scenarios and demonstrate detection, analysis, and response workflows.
 
 ---
 
-A cybersecurity analyst focused on the operational side of security — monitoring, detection, and response. My work sits at the intersection of SIEM engineering and threat analysis, where most of the real noise-to-signal problem lives.
+## 📂 Quick Navigation
 
-Open to **SOC Analyst (L1/L2)** and **Cybersecurity Analyst** roles.
+### 🔎 Splunk Detection Labs
 
----
-
-## 🔬 Projects
-
-**Ubuntu Splunk Detection Lab**  
-Built an event log–based detection lab in Splunk to monitor brute-force attacks, anomalous PowerShell execution, and lateral movement. Created custom SPL searches, dashboards, and alerting workflows replicating real SOC monitoring pipelines.
-
-**AES Side-Channel Attack Analysis**  
-Researched how side-channel attacks bypass affine masking countermeasures in AES encryption. Analysed leakage patterns and evaluated the real-world effectiveness of cryptographic defences under attack conditions.
-
-**Man-in-the-Middle Attack Simulation**  
-Demonstrated live interception and manipulation of data packets to study MITM vulnerabilities. Performed protocol manipulation and traffic analysis to assess confidentiality and integrity risk exposure.
-
-**TryHackMe CTF Analysis Reports**  
-Wrote in-depth CTF analysis reports covering attack vectors, privilege escalation chains, log analysis results, and MITRE ATT&CK mappings — building both offensive and defensive knowledge side by side.
-
----
-
-## ⚙️ Technical Skills
-
-| Domain | Tools & Technologies |
-|---|---|
-| SIEM & Monitoring | Splunk (SPL), IBM QRadar (AQL), Microsoft Sentinel |
-| Log Analysis | Windows Event Logs, Sysmon, Linux Logs, DNS, Proxy, Firewall |
-| Network Security | TCP/IP, DNS, VPN, Firewalls, IDS/IPS, Wireshark, tcpdump |
-| Threat Detection | Phishing, Brute-Force, Malware, Lateral Movement, Privilege Escalation |
-| Threat Frameworks | MITRE ATT&CK, Cyber Kill Chain |
-| Operating Systems | Windows, Linux, Kali Linux |
-| Scripting | Python, Bash |
+* 🚨 [Windows Brute Force Detection](./Splunk/Bruteforce.md)
+* 🔐 [Account Lockdown Detection](./Splunk/Account%20Lockdown%20Detection.md)
+* 📊 [Data Exfiltration Detection](./Splunk/Data%20Exfiltration%20Detection.md)
+* 🌍 [Impossible Travel Detection](./Splunk/Impossible%20Travel%20Detection.md)
+* 🔁 [Lateral Movement Detection](./Splunk/Lateral%20Movement%20Detection.md)
+* 🐧 [Linux Authentication Threat Detection & Investigation](./Splunk/Linux%20Authentication%20Threat%20Detection%20%26%20Investigation.md)
+* ⚙️ [Linux Persistence Detection via Cron Jobs](./Splunk/Linux%20Persistence%20Detection%20via%20Cron%20Jobs.md)
+* 🎯 [Multi-Stage Attack Detection](./Splunk/Multi-Stage%20Attack%20Detection.md)
+* 🔓 [Password Spraying Attack](./Splunk/Password%20Spraying%20Attack.md)
+* 🎣 [Phishing Attack Simulation](./Splunk/Phishing%20Attack%20Simulation.md)
+* ⬆️ [Privilege Escalation Detection](./Splunk/Privilege%20Escalation.md)
+* 🖥️ [Suspicious Remote Command Execution](./Splunk/Suspicious%20Remote%20Command%20Execution%20Detection.md)
+* 🌐 [Web Attack Detection](./Splunk/Web%20Attack%20Detection.md)
+* 🧠 [Creating Correlation Rule: Windows Brute Force](./Splunk/Creating%20Correlation%20Rule:%20Windows%20Brute%20Force%20Detection.md)
 
 ---
 
-## 📜 Certifications
+### 🧩 QRadar Labs
 
-| Certification | Issuer |
-|---|---|
-| Security+ | CompTIA |
-| Network+ | CompTIA |
-| IT Fundamentals+ (ITF+) | CompTIA |
-| Certified Ethical Hacker (CEH v13) | EC-Council |
-| Certified SOC Analyst (CSA) | EC-Council |
-| eJPT – Junior Penetration Tester | eLearnSecurity |
-| Security Analyst Level 1 (SEC1) | TryHackMe |
-| Cybersecurity Analyst Professional Certificate | Microsoft |
-| Cybersecurity Professional Certificate | Google |
-| Certified Information Assurance Professional | DIAT |
+* 🚨 [Brute Force Attack](./QRADAR/Brute%20Force%20Attack.md)
+* 🔐 [Distributed Password Spraying Attack](./QRADAR/Distributed%20Password%20Spraying%20Attack.md)
 
 ---
 
-## 🧪 Labs & Activity
+## ⭐ Featured Projects
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SecretAgent11.png)](https://tryhackme.com/p/SecretAgent11)
+### 🚨 Windows Brute Force Detection (Splunk)
+
+* Detects repeated failed login attempts (Event ID 4625)
+* Correlates attacker behavior using SPL
+* Includes investigation workflow + screenshots
+
+👉 [View Project](./Splunk/Bruteforce.md)
 
 ---
 
-> 💼 *Actively seeking SOC Analyst and Cybersecurity Analyst roles — feel free to reach out directly.*
+### 📊 Data Exfiltration Detection
+
+* Identifies abnormal outbound traffic patterns
+* Detects potential data theft scenarios
+* Demonstrates SIEM correlation techniques
+
+👉 [View Project](./Splunk/Data%20Exfiltration%20Detection.md)
+
+---
+
+### 🎯 Multi-Stage Attack Detection
+
+* Tracks attacker lifecycle across multiple stages
+* Combines multiple detection techniques
+* Real-world SOC investigation scenario
+
+👉 [View Project](./Splunk/Multi-Stage%20Attack%20Detection.md)
+
+---
+
+## 🧠 Skills Demonstrated
+
+* SIEM: Splunk, QRadar
+* Log Analysis (Windows & Linux)
+* Threat Detection & Hunting
+* Incident Response
+* Correlation Rule Creation
+* MITRE ATT&CK Mapping
+
+---
+
+## 📁 Repository Structure
+
+```
+Home-Labs/
+├── Splunk/
+│   ├── Detection Labs (.md files)
+│   └── images/
+│
+├── QRADAR/
+│   ├── Attack Simulations (.md files)
+│   └── images/
+```
+
+---
+
+## 🚀 About Me
+
+Aspiring **SOC Analyst** with hands-on experience in:
+
+* Security monitoring
+* Threat detection
+* SIEM-based investigations
+
+Focused on building real-world detection use cases and improving blue team skills.
+
+---
+
+## 📌 Note
+
+Each lab includes:
+
+* Attack scenario
+* Detection logic
+* Logs / queries
+* Screenshots
+* Analysis
+
+---
+
+⭐ If you found this useful, consider starring the repo!
