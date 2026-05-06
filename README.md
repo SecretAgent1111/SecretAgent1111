@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 Correlation Rules
+### 🧠 Creating Correlation Rules
 
 * ⚡ [Windows Brute Force Correlation Rule](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/Creating%20Correlation%20Rule:%20Windows%20Brute%20Force%20Detection.md)
 * ⚡️ [High Number of Connections to Multiple Destinations from Single Source](https://github.com/SecretAgent1111/Home-Labs/blob/main/Splunk/High%20Number%20of%20Connections%20to%20Multiple%20Destinations%20from%20Single%20Source.md)
